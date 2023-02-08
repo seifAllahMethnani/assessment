@@ -28,4 +28,4 @@ to RUN the SpringBoot project on 8080 port
     gradle bootRun
     
 then run the angular project on 4200 port 
-    ng serve
+     ng serve
