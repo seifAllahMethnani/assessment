@@ -13,8 +13,6 @@ CustomerAPI
 -GET /v1/customer - retrieves all customers
 
 
-JUnit test coverage is 100% as well as integration tests are available.
-
 
 *Technologies
 
